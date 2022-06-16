@@ -5,19 +5,19 @@
 
 ### Módulos 📚
 
-* Módulo 0 - Prepare-se para sua jornada
+:red_circle: Módulo 0 - Prepare-se para sua jornada
 - [x] Conheça as oportunidades da DIO
 - [x] Seja protagonista nesse Bootcamp
 - [x] Boas-vindas ao Santander Bootcamp Fullstack Developer
 - [x] Aula Inaugural - Santander Bootcamp Fullstack Developer
 
 
-* Módulo 1 - Conteúdo de Abertura
+:red_circle: Módulo 1 - Conteúdo de Abertura
 - [x] Introdução à Programação e Pensamento Computacional
 - [x] Introdução ao Git e Github
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
-* Módulo 2 - HTML/CSS3/JS
+:red_circle: Módulo 2 - HTML/CSS3/JS
 - [x] Introdução a criação de websites com HTML5 e CSS3
 - [x] Posicionando elementos com flexbox em CSS
 - [x] Recriando a página inicial do Instagram
@@ -37,7 +37,7 @@
 - [ ] Introdução prática ao TypeScript
 
 
-* Módulo 3 - Angular
+:red_circle: Módulo 3 - Angular
 - [ ] Introdução ao Angular 8
 - [ ] Trabalhando com páginas SPA com Angular
 - [ ] Arquitetura de componentes e gestão da complexidade no front-end
@@ -51,7 +51,7 @@
 - [ ] Desafios Intermediários JS- Santander Fullstack Developer
 - [ ] Como criar um front-end de um e-commerce utilizando Angular
 
-* Módulo 4 - Java
+:red_circle: Módulo 4 - Java
 - [ ] Dominando IDEs Java
 - [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 - [ ] Entendendo métodos Java
@@ -64,7 +64,7 @@
 - [ ] Desafios iniciais Java- Santander Fullstack Developer
 - [ ] Criando um banco digital com Java e Orientação a objetos
 
-* Módulo 5 - Spring Framework
+:red_circle: Módulo 5 - Spring Framework
 - [ ] Conhecendo os principais protocolos de comunicação da internet
 - [ ] Introdução ai framework Spring Boot
 - [ ] Imersão no Spring framework com Spring Boot
