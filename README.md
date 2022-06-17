@@ -25,9 +25,9 @@
 - [x] Sintaxe e Operadores
 - [x] Variáveis e Tipos
 - [x] Funções
-- [ ] Coleções
-- [ ] Map, Filter e Reduce
-- [ ] Debugging e Error Handling
+- [x] Coleções
+- [x] Map, Filter e Reduce
+- [x] Debugging e Error Handling
 - [ ] JavaScript assíncrono
 - [ ] Orientação a objetos
 - [ ] Desafios Iniciais JS- Santander Fullstack Developer
