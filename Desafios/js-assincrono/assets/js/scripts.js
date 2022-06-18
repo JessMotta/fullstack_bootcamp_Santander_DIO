@@ -1,22 +1,22 @@
-const BASE_URL = "https://thatcopy.pw/catapi/rest/";
-// let headers = new Headers({'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*',  "Access-Control-Allow-Methods": "OPTIONS,POST,GET"});
+const BASE_URL = 'https://api.thecatapi.com/v1/images/search';
+
 
 const getCats = async () => {
-  try {
-    const data = await fetch(BASE_URL);
-    const json = await data.json();
-    // console.log(json.)
-  } catch (e) {
-    console.log(e.message);
-  }
+	try {
+		const response = await fetch(BASE_URL);
+		const cats = await response.json();
+		console.log(cats)
+		return cats[0].url;
+	} catch (e) {
+		console.log(e.message);
+	}
 };
 
 const loadImg = async () => {
-  const img = document.getElementsByTagName("img")[0];
-  img.src = await getCats();
+	document.getElementById('cat').src = `${await getCats()}` ;
 };
 
-// loadImg();
+const btn = document.getElementById('change-cat');
+btn.addEventListener('click', loadImg);
 
-const btn = document.getElementById("change-cat");
-btn.addEventListener("click", loadImg);
+window.onload = loadImg();

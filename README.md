@@ -28,9 +28,9 @@
 - [x] Coleções
 - [x] Map, Filter e Reduce
 - [x] Debugging e Error Handling
-- [ ] JavaScript assíncrono
-- [ ] Orientação a objetos
-- [ ] Desafios Iniciais JS- Santander Fullstack Developer
+- [x] JavaScript assíncrono
+- [x] Orientação a objetos
+- [x] Desafios Iniciais JS- Santander Fullstack Developer
 - [ ] Trabalhando com Módulos em JavaScript
 - [ ] Manipulando o DOM com JavaScript
 - [ ] Introdução ao TypeScript: Explorando classes, tipos e interfaces
