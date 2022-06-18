@@ -31,9 +31,9 @@
 - [x] JavaScript assíncrono
 - [x] Orientação a objetos
 - [x] Desafios Iniciais JS- Santander Fullstack Developer
-- [ ] Trabalhando com Módulos em JavaScript
-- [ ] Manipulando o DOM com JavaScript
-- [ ] Introdução ao TypeScript: Explorando classes, tipos e interfaces
+- [x] Trabalhando com Módulos em JavaScript
+- [x] Manipulando o DOM com JavaScript
+- [x] Introdução ao TypeScript: Explorando classes, tipos e interfaces
 - [ ] Introdução prática ao TypeScript
 
 
