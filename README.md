@@ -34,10 +34,10 @@
 - [x] Trabalhando com Módulos em JavaScript
 - [x] Manipulando o DOM com JavaScript
 - [x] Introdução ao TypeScript: Explorando classes, tipos e interfaces
-- [ ] Introdução prática ao TypeScript
+- [x] Introdução prática ao TypeScript
 
 
-:red_circle: Módulo 3 - Angular
+:red_circle: Módulo 3 - Angular - 26h
 - [ ] Introdução ao Angular 8
 - [ ] Trabalhando com páginas SPA com Angular
 - [ ] Arquitetura de componentes e gestão da complexidade no front-end
