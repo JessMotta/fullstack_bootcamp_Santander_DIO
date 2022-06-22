@@ -8,6 +8,9 @@ import {MatButtonModule} from '@angular/material/button';
 import { HomeComponent } from './home/home.component';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
+import { CounterComponent } from './counter/counter.component';
+import { FormsModule } from '@angular/forms';
+import { MarcaTextoDirective } from './directives/marca-texto.directive';
 
 
 
@@ -15,7 +18,9 @@ import {MatIconModule} from '@angular/material/icon';
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    CounterComponent,
+    MarcaTextoDirective
   ],
   imports: [
     BrowserModule,
@@ -23,7 +28,8 @@ import {MatIconModule} from '@angular/material/icon';
     BrowserAnimationsModule,
     MatButtonModule,
     MatToolbarModule,
-    MatIconModule
+    MatIconModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
