@@ -38,9 +38,9 @@
 
 
 :red_circle: Módulo 3 - Angular - 26h
-- [ ] Introdução ao Angular 8
-- [ ] Trabalhando com páginas SPA com Angular
-- [ ] Arquitetura de componentes e gestão da complexidade no front-end
+- [x] Introdução ao Angular 8
+- [x] Trabalhando com páginas SPA com Angular
+- [x] Arquitetura de componentes e gestão da complexidade no front-end
 - [ ] Instalando e preparando o ambiente no Angular
 - [ ] Explorando diretivas com Angular
 - [ ] Implementando serviços e injeção de dependências com Angular
