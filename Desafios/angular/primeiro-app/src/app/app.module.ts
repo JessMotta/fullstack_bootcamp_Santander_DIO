@@ -13,6 +13,7 @@ import { FormsModule } from '@angular/forms';
 import { MarcaTextoDirective } from './shared/directives/marca-texto.directive';
 import { PeopleService } from './shared/services/people.service';
 import { ListPeopleComponent } from './shared/components/list-people/list-people.component';
+import { RickyMortyComponent } from './ricky-morty/ricky-morty.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { ListPeopleComponent } from './shared/components/list-people/list-people
     CounterComponent,
     MarcaTextoDirective,
     ListPeopleComponent,
+    RickyMortyComponent,
   ],
   imports: [
     BrowserModule,

@@ -41,8 +41,8 @@
 - [x] Introdução ao Angular 8
 - [x] Trabalhando com páginas SPA com Angular
 - [x] Arquitetura de componentes e gestão da complexidade no front-end
-- [ ] Instalando e preparando o ambiente no Angular
-- [ ] Explorando diretivas com Angular
+- [x] Instalando e preparando o ambiente no Angular
+- [x] Explorando diretivas com Angular
 - [ ] Implementando serviços e injeção de dependências com Angular
 - [ ] Introdução a serviços assíncronos no Angular
 - [ ] O poder do Data Binding no Angular
