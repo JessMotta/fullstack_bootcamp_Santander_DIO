@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ListService } from '../shared/services/list.service';
 
 @Component({
   selector: 'spa-ricky-morty',
@@ -7,9 +8,19 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RickyMortyComponent implements OnInit {
 
-  constructor() { }
+  personagens: Array<any> = []
+
+  constructor(private listService: ListService) { }
 
   ngOnInit(): void {
+    this.getList()
+  }
+
+  getList(){
+    this.listService.getList().subscribe(result =>{
+      this.personagens = result?.results
+      console.log(this.personagens)
+    })
   }
 
 }

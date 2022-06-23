@@ -14,6 +14,7 @@ import { MarcaTextoDirective } from './shared/directives/marca-texto.directive';
 import { PeopleService } from './shared/services/people.service';
 import { ListPeopleComponent } from './shared/components/list-people/list-people.component';
 import { RickyMortyComponent } from './ricky-morty/ricky-morty.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -32,6 +33,7 @@ import { RickyMortyComponent } from './ricky-morty/ricky-morty.component';
     MatToolbarModule,
     MatIconModule,
     FormsModule,
+    HttpClientModule
   ],
   providers: [PeopleService],
   bootstrap: [AppComponent],
